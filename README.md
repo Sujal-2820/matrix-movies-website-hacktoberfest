@@ -10,6 +10,8 @@ Take a look at the LIVE [Matrix Movies Website](https://roannav.github.io/matrix
 
 # The Matrix Movies Website, a HacktoberFest Project for Beginners 🕶️
 
+This is an amazing repository
+
 Whether you are a coder 👨🏾‍💻 or non-coder 👩‍🎨, newbie 👶 or more experienced 👴, your contribution is welcome!
 
 Let's build a website to celebrate The Matrix movie series.  Join the revolution! ☎️ 🪞
